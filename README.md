@@ -5,7 +5,8 @@ As a first conception we come up with a version of a version that aims more on t
 
 Then for more freedome when working with **AWS learner lab** we went with the below schema as a lot of services were not available ( the IAM roles as example):
 
-![image](https://github.com/GuiguiSalma/Cloud-project-3-tier-web-application-on-AWS-/assets/132245605/7cac019a-6d33-4cba-8eea-d91957072d31)
+![Smart Edu](https://github.com/GuiguiSalma/Cloud-project-3-tier-web-application-on-AWS-/assets/132245605/b8b0119f-2631-4239-b8d6-1c1ed85950cd)
+
 
 
 ## Scalability:
