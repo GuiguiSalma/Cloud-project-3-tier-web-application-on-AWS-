@@ -4,11 +4,14 @@ As a first conception we come up with a version of a version that aims more on t
 ![image](https://github.com/GuiguiSalma/Cloud-project-3-tier-web-application-on-AWS-/assets/132245605/ba0a25aa-8e09-4940-96bc-43696d798c2d)
 
 Then for more freedome when working with **AWS learner lab** we went with the below schema as a lot of services were not available ( the IAM roles as example):
+
 ![image](https://github.com/GuiguiSalma/Cloud-project-3-tier-web-application-on-AWS-/assets/132245605/7cac019a-6d33-4cba-8eea-d91957072d31)
+
 
 ## Scalability:
 Given our project ,'Smart education platform', wich will see a growth of 90%  we useed a VPC with a  /16 CIDR block.We added of course the **internet gateway** for connectivity with the INTERNET and **NAT gateways** for for the outbound trafic for the two regions (having multiple regions will help in time of crisis so you can find a backup):
 ![imag](https://github.com/GuiguiSalma/Cloud-project-3-tier-web-application-on-AWS-/assets/132245605/b3d94d79-bdcb-46d7-8ad6-df0b6d64cfd7)
+
 
 ## Autoscaling:
 This will allow our instances to perform based on the demand, for example not a lot of traffic on our platform? turn-off the by-standers instances( as i like to call them :) ) , a lot of traffic is comming our way? No problem, more computing power will be added as more instances will be created.Exemple below to show that sometimes it can be specified.
