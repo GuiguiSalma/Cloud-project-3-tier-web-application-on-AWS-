@@ -3,6 +3,7 @@
 As a first conception we come up with a version of a version that aims more on the security neglecting the other aspects when it comes to for example the multi-region availability :
 ![image](https://github.com/GuiguiSalma/Cloud-project-3-tier-web-application-on-AWS-/assets/132245605/ba0a25aa-8e09-4940-96bc-43696d798c2d)
 
+
 Then for more freedome when working with **AWS learner lab** we went with the below schema as a lot of services were not available ( the IAM roles as example):
 
 ![Smart Edu](https://github.com/GuiguiSalma/Cloud-project-3-tier-web-application-on-AWS-/assets/132245605/b8b0119f-2631-4239-b8d6-1c1ed85950cd)
