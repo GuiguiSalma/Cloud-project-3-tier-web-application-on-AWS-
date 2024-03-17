@@ -25,7 +25,7 @@ But numerous time you got to create an auto-scaling group as we did:
 
 ![pp](https://github.com/GuiguiSalma/Cloud-project-3-tier-web-application-on-AWS-/assets/132245605/a0eb2ee0-56fb-4b6e-b2fd-425d98b514b3)
 
-*Security:
+ Markup : *Security:
 Security was applied in our project  through:
   **secutity groups first** :
   Each Tier had it's own security group and route table to manage inboud and outbound trafic and who can access them. Specially the Database tier
